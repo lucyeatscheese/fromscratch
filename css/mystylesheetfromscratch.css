@@ -1,0 +1,67 @@
+/* define font family and color for the body */
+body {
+  font-family: Arial, sans-serif;
+  color: #333333;
+}
+
+/* style definition for the header(1) */
+header {
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+}
+
+
+
+
+/* style definition for the main content(2) */
+main {
+  background-color: #ffffff;
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+/* style definition for the image(3) */
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+
+/* style definition for the link(4) */
+a {
+  color: darkblue;
+}
+
+/* div 1  */
+.cursivefont{
+    font-family: cursive;
+    background-color: green; 
+    text-align: center;
+    color: yellow;
+    
+}
+
+/* div 2  */
+.fantasyfont{
+    font-family: fantasy;
+    background-color: green;
+    text-align: center;  
+    color: black
+}
+
+/* div 3  */
+.awardstyle{
+    font-family: monospace;
+    background-color: green;
+    
+    
+}
+
+
+
+
+
+
